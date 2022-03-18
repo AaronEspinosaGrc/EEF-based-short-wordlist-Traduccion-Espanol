@@ -1,5 +1,5 @@
 # eef_short_wordlist_1_es
-A manual spanish traduction of the EEF Short Wordlist 1
+Traducción semi-manual al español de la lista de la EEF "Short Wordlist 1"
 
 
 La EEF es una organización sin ánimo de lucro dedicada a defender a la gente en el mundo digital.
